@@ -4,4 +4,5 @@
 *lime
 *salt
 ## Instructions
-*peel the avocadoes
+*peel the avocadoes and put then into a bowl
+
